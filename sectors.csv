@@ -125,5 +125,6 @@ FIL,STOR,,CN,,,,,,VC,,
 AR,STOR,,US,Arweave,,,,,,,
 STORJ,STOR,,,Storj,,,,,,,
 SYN,XCL,,,,,,,,,,
+ANY,XCL,,,,,,,,,,
 REN,XCL,bridge,,REN,,,blue,,,,SBF
 RUNE,XCL,,,THORChain,,,,,,,
