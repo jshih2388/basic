@@ -6,14 +6,13 @@ SXP,ALT,,,
 CRO,ALT,,,
 ZRX,ALT,,,
 JOE,AVA,,,
-QI,AVA,,,
 AVAX,AVA,,,
+GTC,DAO,,,
+ANT,DAO,,,
 LTC,Barry,,,Litecoin
 ETC,Barry,,,
 CAKE,BSC,,,
-BUNNY,BSC,,,
 BTC,BTC,,,
-LEO,CEX,,,
 BNB,CEX,,,
 FTT,CEX,,,
 HT,CEX,,CN,
@@ -113,7 +112,6 @@ AR,STOR,,US,Arweave
 STORJ,STOR,,,Storj
 SYN,XCL,,,
 CELR,XCL,,,
-REN,XCL,bridge,,REN
 RUNE,XCL,,,THORChain
 MINA,ZK,,,
 DUSK,ZK,,,
