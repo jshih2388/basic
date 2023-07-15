@@ -8,8 +8,8 @@ JOE,AVA,,,
 AVAX,AVA,,,
 GTC,DAO,,,
 ANT,DAO,,,
-LTC,Barry,,,Litecoin
-ETC,Barry,,,
+LTC,Legacy,,,Litecoin
+ETC,Legacy,,,
 BTC,BTC,,,
 BNB,CEX,,,
 FTT,CEX,,,
@@ -27,13 +27,13 @@ TOKE,DEFI,,,
 FXS,DEFI,,,
 KNC,DEFI,,,
 YFI,DEFI_BLU,,,yearn.finance
-CRV,DEFI_BLU,AMM,US,Curve DAO Token
+CRV,DEX,AMM,US,Curve DAO Token
 AAVE,DEFI_BLU,YLD,US,
-UNI,DEFI_BLU,AMM,US,uniswap
+UNI,DEX,AMM,US,uniswap
 MKR,DEFI_BLU,blue,US,Maker
 COMP,DEFI_BLU,blue,US,Compound
-BAL,DEFI_BLU,blue,US,Balancer
-SNX,DEX,DER,,
+BAL,DEX,blue,US,Balancer
+SNX,DEFI_BLU,DER,,
 DYDX,DEX,,,
 SUSHI,DEX,AMM,,
 1INCH,DEX,AMM,,
@@ -44,14 +44,15 @@ GLMR,L1,,,
 ALGO,L1,Layer1,,
 ATOM,L1,,,
 XTZ,L1,,,
-APTOS,L1,,,
+APT,L1,,,
 AVAX,L1,,,Avalanche
 NEAR,L1,,,
 FTM,L1,,,
 ONE,L1,,,
 LRC,L2,,,
+STX,L2,,,
 OP,L2,,,
-MATIC,L2,,,Matic Network
+MATIC,L1,,,Matic Network
 TRX,Legacy,Layer1,CN,TRON
 XLM,Legacy,,US,
 BCH,Legacy,BTC Fork,,Bitcoin Cash
@@ -95,6 +96,7 @@ FIL,STOR,,CN,
 AR,STOR,,US,Arweave
 STORJ,STOR,,,Storj
 SYN,XCL,,,
+STG,XCL,,,
 RUNE,XCL,,,THORChain
 MINA,ZK,,,
 DUSK,ZK,,,
