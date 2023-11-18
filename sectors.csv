@@ -54,6 +54,8 @@ ONE,L1,,,
 LRC,L2,,,
 STX,L2,,,
 OP,L2,,,
+ARB,L2,,,
+ORDI,L2,,,
 MATIC,L1,,,Matic Network
 TRX,Legacy,Layer1,CN,TRON
 XLM,Legacy,,US,
@@ -106,7 +108,7 @@ ICP,Skem,,,
 EGLD,Skem,,,
 EOS,Skem,Layer1,CN,EOS
 IOTX,Skem,,,
-MASK,Social,,,
+MASK,Skem,,,
 SC,STOR,,,Siacoin
 FIL,STOR,,CN,
 AR,STOR,,US,Arweave
