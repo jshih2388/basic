@@ -18,7 +18,6 @@ ETC,Legacy,,,
 BTC,BTC,,,
 BNB,BSC,,,
 CAKE,BSC,,,
-BAKE,BSC,,,
 XVS,BSC,,,
 TWT,BSC,,,
 FTT,Meme,,,
@@ -64,7 +63,11 @@ LRC,L2,,,
 STX,L2,,,
 OP,L2,,,
 ARB,L2,,,
-ORDI,L2,,,
+ORDI,BRC,,,
+RATS,BRC,,,rats
+SATS,BRC,,,sats-ordinals
+LEVER,BRC,,,lever
+BAKE,BRC,,,bakerytoken
 MATIC,L1,,,Matic Network
 TRX,Legacy,Layer1,CN,TRON
 XLM,Legacy,,US,
