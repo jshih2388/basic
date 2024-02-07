@@ -68,7 +68,7 @@ OP,L2,,,
 ARB,L2,,,
 MANTA,L2,,,
 ORDI,BRC,,,
-STX,BRC,,,
+STX,BRC,,,blockstack
 RATS,BRC,,,rats
 SATS,BRC,,,sats-ordinals
 LEVER,BRC,,,lever
