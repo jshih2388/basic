@@ -13,8 +13,6 @@ ZRX,ALT,,,
 C98,ALT,,,
 XVG,ALT,,,
 JOE,DEX,,,
-GTC,DAO,,,
-ANT,DAO,,,
 LTC,Legacy,,,Litecoin
 ETC,Legacy,,,
 BTC,BTC,,,bitcoin
@@ -69,7 +67,6 @@ LRC,L2,,,
 METIS,L2,,,
 OP,L2,,,
 ARB,L2,,,
-COTI,L2,,,
 MANTA,L2,,,
 CELO,L2,,,
 ORDI,BRC,,,
@@ -143,6 +140,5 @@ AR,STOR,,US,Arweave
 STORJ,STOR,,,Storj
 SYN,XCL,,,
 STG,XCL,,,
-FLIP,XCL,,,
 MINA,ZK,,,
 DUSK,ZK,,,
