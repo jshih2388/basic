@@ -4,8 +4,7 @@ CFX,AI,,,
 AGIX,AI,,,
 RNDR,DEPIN,,,
 HNT,DEPIN,,,
-HONEY,DEPIN,,,hivemapper
-DATA,DEPIN,,,streamr
+GRASS,DEPIN,,,streamr
 IOTX,DEPIN,,,iotex
 SXP,ALT,,,
 ENS,ALT,,,
@@ -25,17 +24,14 @@ NEO,China,,CN,
 QTUM,China,,,
 OSMO,COSMO,,,
 NTRN,COSMO,,,
-KUJI,COSMO,,,
 INJ,COSMO,,,
 KAVA,COSMO,,,
 AKT,COSMO,,,
 RUNE,L1,,,
 CVX,DEFI,,,
-DPX,DEFI,,,
+PENDLE,DEFI,,,
 SPELL,DEFI,,,
-TOKE,DEFI,,,
 FXS,DEFI,,,
-KNC,DEFI,,,
 YFI,DEFI_BLU,,,yearn.finance
 CRV,DEX,AMM,US,Curve DAO Token
 AAVE,DEFI_BLU,YLD,US,
@@ -44,6 +40,7 @@ MKR,DEFI_BLU,blue,US,Maker
 COMP,DEFI_BLU,blue,US,Compound
 BAL,DEX,blue,US,Balancer
 SNX,DEFI_BLU,DER,,
+ONDO,RWA,DER,,
 DYDX,DEX,,,
 SUSHI,DEX,AMM,,
 1INCH,DEX,AMM,,
@@ -86,7 +83,7 @@ SHIB,Meme,,,
 PEPE,Meme,,,
 BONK,Meme,,,
 MEME,Meme,,,memecoin-2
-UNIBOT,Meme,,,
+FLOKI,Meme,,,
 AXS,Game,,,
 PYR,Game,,,
 MAVIA,Game,,,
@@ -126,9 +123,11 @@ PYTH,SOL,,,
 JTO,SOL,,,
 HIGH,SOL,,,
 AUDIO,SOL,,,
-MNDE,SOL,,,
+KMNO,SOL,,,
 RAY,SOL,,,
+FIDA,SOL,,,
 WAVES,Skem,,,
+OM,Skem,,,
 ADA,Legacy,,CN,
 ICP,Skem,,,
 EGLD,Skem,,,
@@ -138,7 +137,6 @@ SC,STOR,,,Siacoin
 FIL,STOR,,CN,
 AR,STOR,,US,Arweave
 STORJ,STOR,,,Storj
-SYN,XCL,,,
 STG,XCL,,,
 MINA,ZK,,,
 DUSK,ZK,,,
