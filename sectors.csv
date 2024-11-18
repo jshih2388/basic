@@ -2,10 +2,10 @@ sym,sector,subsector,custom_geo,uni_name
 FET,AI,,,
 CFX,AI,,,
 AGIX,AI,,,
-RNDR,DEPIN,,,
+RENDER,DEPIN,,,render-token
 HNT,DEPIN,,,
-GRASS,DEPIN,,,streamr
-IOTX,DEPIN,,,iotex
+GRASS,DEPIN,,,grass
+IO,DEPIN,,,io
 SXP,ALT,,,
 ENS,ALT,,,
 ZRX,ALT,,,
@@ -72,7 +72,7 @@ RATS,BRC,,,rats
 SATS,BRC,,,sats-ordinals
 LEVER,BRC,,,lever
 BAKE,BRC,,,bakerytoken
-MATIC,L1,,,Matic Network
+POL,L1,,,Matic Network
 TRX,Legacy,Layer1,CN,TRON
 XLM,Legacy,,US,
 BCH,Legacy,BTC Fork,,Bitcoin Cash
@@ -84,6 +84,10 @@ PEPE,Meme,,,
 BONK,Meme,,,
 MEME,Meme,,,memecoin-2
 FLOKI,Meme,,,
+PNUT,Cartel_Meme,,,
+GOAT,Cartel_Meme,,,
+ACT,Cartel_Meme,,,
+MOODENG,Cartel_Meme,,,
 AXS,Game,,,
 PYR,Game,,,
 MAVIA,Game,,,
@@ -128,7 +132,7 @@ RAY,SOL,,,
 FIDA,SOL,,,
 WAVES,Skem,,,
 OM,Skem,,,
-ADA,Legacy,,CN,
+ADA,Legacy,,,cardano
 ICP,Skem,,,
 EGLD,Skem,,,
 EOS,Skem,Layer1,CN,EOS
