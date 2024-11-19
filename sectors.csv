@@ -1,14 +1,16 @@
 sym,sector,subsector,custom_geo,uni_name
 FET,AI,,,
 CFX,AI,,,
-AGIX,AI,,,
-RENDER,DEPIN,,,render-token
+NEAR,AI,,,
+ARKM,AI,,,
+WLD,AI,,,
+TAO,AI,,,bittensor
+RENDER,AI,,,render-token
 HNT,DEPIN,,,
 GRASS,DEPIN,,,grass
 IO,DEPIN,,,io
 SXP,ALT,,,
 ENS,ALT,,,
-ZRX,ALT,,,
 C98,ALT,,,
 XVG,ALT,,,
 JOE,DEX,,,
@@ -50,14 +52,17 @@ DOT,L1,,,
 KSM,DOT,,,
 MOVR,DOT,,,
 GLMR,DOT,,,
-ALGO,L1,Layer1,,
 ATOM,L1,,,
 CHR,L1,,,
-XTZ,L1,,,
+POL,L1,,,Matic Network
+AVAX,L1,,,Avalanche
+XTZ,Old_L1,,,
+ALGO,Old_L1,,,
+IOTA,Old_L1,,,iota
+ZRX,Old_L1,,,0x
+ENJ,Old_L1,,,enjincoin
 APT,L1,,,
 TIA,L1,,,
-AVAX,L1,,,Avalanche
-NEAR,L1,,,
 FTM,L1,,,
 ONE,L1,,,
 LRC,L2,,,
@@ -74,12 +79,13 @@ RATS,BRC,,,rats
 SATS,BRC,,,sats-ordinals
 LEVER,BRC,,,lever
 BAKE,BRC,,,bakerytoken
-POL,L1,,,Matic Network
 TRX,Legacy,Layer1,CN,TRON
-XLM,Legacy,,US,
+XLM,US_Retail,,,
+XRP,US_Retail,,KRW,XRP
+ADA,US_Retail,,,cardano
+HBAR,US_Retail,,,hedera-hashgraph
 BCH,Legacy,BTC Fork,,Bitcoin Cash
-XRP,Legacy,,KRW,XRP
-LDO,LSD,,,
+LDO,Defi,,,
 DOGE,Meme,,,
 SHIB,Meme,,,
 PEPE,Meme,,,
@@ -90,6 +96,7 @@ PNUT,Cartel_Meme,,,
 GOAT,Cartel_Meme,,,
 ACT,Cartel_Meme,,,
 MOODENG,Cartel_Meme,,,
+PONKE,Cartel_Meme,,,
 AXS,Game,,,
 PYR,Game,,,
 MAVIA,Game,,,
@@ -110,19 +117,14 @@ CHZ,NFT,,,
 BLUR,NFT,,,
 MAGIC,NFT,,,
 THETA,NFT,,,
-ENJ,NFT,,,
 APE,NFT,,,
-UMA,ORA,DER,,
 TRB,CARTEL,,,
 LOOM,CARTEL,,,
-LQTY,CARTEL,,,
 CYBER,CARTEL,,,
 BLZ,CARTEL,,,
-BNT,CARTEL,,,
-LINK,ORA,ORA,,
-BAND,ORA,ORA,,
-ZEC,PRIV,,,
-XMR,PRIV,,,
+UMA,DEFI,,,
+LINK,DEFI,,,
+BAND,DEFI,,,
 SOL,SOL,,,
 ORCA,SOL,,,
 PYTH,SOL,,,
@@ -134,9 +136,9 @@ RAY,SOL,,,
 FIDA,SOL,,,
 WAVES,Skem,,,
 OM,Skem,,,
-ADA,Legacy,,,cardano
 ICP,Skem,,,
 EGLD,Skem,,,
+KAS,Skem,,,kaspa
 EOS,Skem,Layer1,CN,EOS
 MASK,Skem,,,
 SC,STOR,,,Siacoin
@@ -146,3 +148,4 @@ STORJ,STOR,,,Storj
 STG,XCL,,,
 MINA,ZK,,,
 DUSK,ZK,,,
+ZEC,ZK,,,
