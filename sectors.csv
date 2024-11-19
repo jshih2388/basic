@@ -84,6 +84,8 @@ XLM,US_Retail,,,
 XRP,US_Retail,,KRW,XRP
 ADA,US_Retail,,,cardano
 HBAR,US_Retail,,,hedera-hashgraph
+VET,US_Retail,,,hedera-hashgraph
+CRO,US_Retail,,,hedera-hashgraph
 BCH,Legacy,BTC Fork,,Bitcoin Cash
 LDO,Defi,,,
 DOGE,Meme,,,
