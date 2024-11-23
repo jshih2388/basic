@@ -61,6 +61,8 @@ ALGO,Old_L1,,,
 IOTA,Old_L1,,,iota
 ZRX,Old_L1,,,0x
 ENJ,Old_L1,,,enjincoin
+ZIL,Old_L1,,,zilliqa
+ICX,Old_L1,,,icon
 APT,L1,,,
 TIA,L1,,,
 FTM,L1,,,
@@ -97,8 +99,6 @@ FLOKI,Meme,,,
 PNUT,Cartel_Meme,,,
 GOAT,Cartel_Meme,,,
 ACT,Cartel_Meme,,,
-MOODENG,Cartel_Meme,,,
-PONKE,Cartel_Meme,,,
 AXS,Game,,,
 PYR,Game,,,
 MAVIA,Game,,,
