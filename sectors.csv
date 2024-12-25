@@ -55,6 +55,7 @@ MOVR,DOT,,,
 GLMR,DOT,,,
 ATOM,L1,,,
 CHR,L1,,,
+HYPE,L1,,,
 POL,L1,,,Matic Network
 AVAX,L1,,,Avalanche
 XTZ,Old_L1,,,
@@ -96,10 +97,11 @@ DOGE,Meme,,,
 SHIB,Meme,,,
 PEPE,Meme,,,
 BONK,Meme,,,
-MEME,Meme,,,memecoin-2
+PURR,Meme,,,purr-2
 FLOKI,Meme,,,
 PNUT,Cartel_Meme,,,
 GOAT,Cartel_Meme,,,
+FARTCOIN,Cartel_Meme,,,
 ACT,Cartel_Meme,,,
 AXS,Game,,,
 PYR,Game,,,
