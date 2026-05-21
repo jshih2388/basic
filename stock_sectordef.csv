@@ -32,6 +32,10 @@ WOLF,,,power_sem
 NVTS,,,power_sem
 ON,,,power_sem
 STM,,,power_sem
+FLNC,,,energy
+SEDG,,,energy
+FCEL,,,energy
+ENPH,,,energy
 GOOG,,,MAG7
 AAPL,,,MAG7
 TSLA,,,MAG7
