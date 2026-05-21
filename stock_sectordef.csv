@@ -43,8 +43,9 @@ NVDA,,,MAG7
 MSFT,,,MAG7
 META,,,MAG7
 AMZN,,,MAG7
-GEV,,,grid
-BE,,,grid
+GEV,,,power_gen
+BE,,,power_gen
+FRVO,,,power_gen
 CRWV,,,neocloud
 NBIS,,,neocloud
 APLD,,,neocloud
