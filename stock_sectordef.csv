@@ -22,6 +22,10 @@ MU,,,Memory
 STX,,,Memory
 SNDK,,,Memory
 WDC,,,Memory
+UMAC,,,drones
+RCAT,,,drones
+ONDS,,,drones
+DPRO,,,drones
 URA,ARCA,,uranium
 OKLO,,,uranium
 SMR,,,uranium
