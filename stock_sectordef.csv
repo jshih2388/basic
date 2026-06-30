@@ -74,9 +74,9 @@ FIX,,,datacenter
 VRT,,,datacenter
 PWR,,,datacenter
 POWL,,,datacenter
-ARKQ,,,robotics
-OUST,,,robotics
-AEVA,,,robotics
+BB,,,phys_ai
+OUST,,,phys_ai
+AEVA,,,phys_ai
 VPG,,,robotics
 ST,,,robotics
 QTUM,ARCA,,quantum
