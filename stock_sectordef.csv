@@ -76,6 +76,7 @@ PWR,,,datacenter
 POWL,,,datacenter
 BB,,,phys_ai
 OUST,,,phys_ai
+HSAI,,,phys_ai
 AEVA,,,phys_ai
 VPG,,,robotics
 ST,,,robotics
